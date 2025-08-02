@@ -1,0 +1,7 @@
+.env
+uploaded_files/
+books/
+node_modules/
+.history/
+.idea/
+__pycache__/
