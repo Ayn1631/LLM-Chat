@@ -1,0 +1,162 @@
+[
+  {
+    "question": "怎样加热座椅？",
+    "predicted_answer": "通过中央显示屏或Lynk&Co App加热座椅。中央显示屏操作：点击座舱体验-座椅，选择副驾驶员座椅，调节功能；或进入空调控制界面-舒适，设置加热强度（关-低-中-高）和时间（5/15/30分钟/持续）。App操作：登录后点击座椅加热图标开关。身体无法感知温度者禁用。",
+    "evaluation": {
+      "accuracy": "CORRECT",
+      "accuracy_score": 1,
+      "accuracy_reasoning": "GRADE: CORRECT  \n\nExplanation: The student's answer includes all the information in the true answer (using the central display to adjust seat heating) and provides additional, non-conflicting details (such as using the app, the specific steps, heating levels, time settings, and safety notes). Since there are no factual contradictions, the answer is graded as CORRECT.",
+      "criteria": {
+        "reasoning": "1. **正确性**: The submission provides correct and factual information on how to heat the seats via the central display and the Lynk&Co App. It also includes additional details like setting the heating intensity and time, which are consistent with the reference. The warning about usage for those who cannot perceive temperature is an added correct detail.\n   - **Conclusion**: Meets the criterion.\n\n2. **完整性**: The submission covers all necessary steps for both the central display and the app, including intensity and time settings. It also includes a safety note, which adds value. The reference only mentions the central display, so the submission is more comprehensive.\n   - **Conclusion**: Meets the criterion.\n\n3. **清晰度**: The steps are clearly outlined, and the instructions are easy to follow. The language is straightforward, and the separation of methods (central display vs. app) is well-organized.\n   - **Conclusion**: Meets the criterion.\n\n4. **简洁性**: The answer is concise and to the point, without unnecessary information. Each step is brief but informative.\n   - **Conclusion**: Meets the criterion.\n\nY",
+        "value": "Y",
+        "score": 1
+      },
+      "avg_similarity": 0.3300664503650091,
+      "num_references": 5
+    }
+  },
+  {
+    "question": "自动模式下，中央显示屏是如何切换日间和夜间模式的？",
+    "predicted_answer": "自动模式下中央显示屏有两种切换方式：1.日出到日落：白天日间模式，晚上夜间模式；2.自定时段：按设置时间段切换。",
+    "evaluation": {
+      "accuracy": "CORRECT",
+      "accuracy_score": 1,
+      "accuracy_reasoning": "GRADE: CORRECT  \n\nExplanation: The student's answer provides additional details about how the automatic switching occurs (e.g., sunrise/sunset or custom timing), but it does not contradict the true answer. The core statement—that the display switches automatically in this mode—is factually accurate.",
+      "criteria": {
+        "reasoning": "Let's evaluate the submission step by step based on each criterion:\n\n1. **正确性 (Correctness)**:\n   - The submission states that there are two ways to switch between day and night modes in automatic mode: based on sunrise/sunset and based on a custom time period. However, the reference only mentions that the switch happens automatically without specifying the exact methods. The submission adds details that may or may not be accurate according to the reference. Thus, it partially meets the correctness criterion but could be misleading if the details are incorrect.\n\n2. **完整性 (Completeness)**:\n   - The submission provides more information than the reference, including two specific methods for switching. While this might seem more complete, it is unclear if this information is necessary or accurate based on the reference. The reference is more general but sufficient for the question asked.\n\n3. **清晰度 (Clarity)**:\n   - The submission is clear and easy to understand. The two methods are explained in a straightforward manner.\n\n4. **简洁性 (Conciseness)**:\n   - The submission is concise and avoids redundancy. It directly answers the question with two points.\n\nOverall, the submission fails the correctness criterion because it adds unspecified details that may not align with the reference. The other criteria are met, but correctness is critical.\n\nN",
+        "value": "N",
+        "score": 0
+      },
+      "avg_similarity": 0.3641829048954235,
+      "num_references": 5
+    }
+  },
+  {
+    "question": "如何通过中央显示屏进行副驾驶员座椅设置？",
+    "predicted_answer": "1. 在中央显示屏中点击-座舱体验-座椅，进入座椅设置界面。\n2. 选择副驾驶员座椅，点击需要调节的座椅功能按键（靠背、座椅位置等）。\n3. 点击、等指示箭头，调节选择的座椅功能。",
+    "evaluation": {
+      "accuracy": "CORRECT",
+      "accuracy_score": 1,
+      "accuracy_reasoning": "GRADE: CORRECT  \n\nExplanation:  \nThe student's answer matches the true answer in all key factual details, including the steps to access and adjust the副驾驶员座椅 via the central display. The minor differences (e.g., numbered steps vs. inline numbering, absence of \"安全出行\" in the student answer) do not conflict with the true answer. Additional non-confirming information is not present.",
+      "criteria": {
+        "reasoning": "1. **正确性**: The submission accurately describes the steps to adjust the co-pilot seat settings via the central display, matching the reference. The instructions are factually correct.  \n   - **Conclusion**: Meets the criterion.  \n\n2. **完整性**: The submission covers all necessary steps (accessing the seat settings, selecting the co-pilot seat, choosing the function, and adjusting it). No essential information is missing.  \n   - **Conclusion**: Meets the criterion.  \n\n3. **清晰度**: The steps are clearly written and easy to follow. The language is straightforward, and the instructions are logically ordered.  \n   - **Conclusion**: Meets the criterion.  \n\n4. **简洁性**: The answer is concise without unnecessary details or redundancy. Each step is briefly and effectively described.  \n   - **Conclusion**: Meets the criterion.  \n\nSince the submission meets all the criteria, the answer is:  \n\nY",
+        "value": "Y",
+        "score": 1
+      },
+      "avg_similarity": 0.7594927874357409,
+      "num_references": 5
+    }
+  },
+  {
+    "question": "副仪表台按钮如何操作中央显示屏？",
+    "predicted_answer": "旋转按钮调节音量。短按暂停/播放音乐或视频；长按约5秒进入锁屏/待机模式，点击屏幕或长按按钮可解锁。",
+    "evaluation": {
+      "accuracy": "CORRECT",
+      "accuracy_score": 1,
+      "accuracy_reasoning": "GRADE: CORRECT  \n\nExplanation: The student's answer accurately reflects all the key operations mentioned in the true answer (rotating for volume, short press for play/pause, long press for lock/standby, and methods to unlock). While phrased differently and slightly condensed, there are no factual discrepancies or omissions of critical information. The additional detail in the true answer (e.g., \"increase or decrease volume\") does not conflict with the student's response.",
+      "criteria": {
+        "reasoning": "1. **正确性**: The submission correctly describes the functions of the button, including rotating for volume control, short press for pause/play, and long press for lock/standby mode. It also correctly states the unlock method. This matches the reference.\n2. **完整性**: The submission covers all necessary information: volume control, pause/play, lock/standby mode, and unlock method. No critical details are missing.\n3. **清晰度**: The submission is clear and easy to understand. Each action (rotate, short press, long press) is described concisely and logically.\n4. **简洁性**: The submission avoids redundancy and is straightforward. It conveys all needed information without unnecessary words.\n\nY",
+        "value": "Y",
+        "score": 1
+      },
+      "avg_similarity": 0.4191837857486713,
+      "num_references": 5
+    }
+  },
+  {
+    "question": "如何从锁定状态唤醒中央显示器?",
+    "predicted_answer": "长按中控台按钮约5秒或点击中央显示屏任意位置可解锁屏幕。",
+    "evaluation": {
+      "accuracy": "INCORRECT",
+      "accuracy_score": 0,
+      "accuracy_reasoning": "GRADE: INCORRECT  \n\nExplanation:  \nThe student's answer describes a method involving a long press on the console button or tapping the screen to wake the display from a locked state. However, the true answer specifies navigating through the settings menu to adjust the display mode, which is a completely different procedure. The two methods do not align, and the student's answer does not accurately reflect the true answer's instructions.  \n\nNote: Even though the student's answer may be a valid method for some systems (e.g., waking a screen from sleep), it conflicts with the true answer provided, which focuses on display mode settings rather than unlocking. Thus, it is factually incorrect in this context.",
+      "criteria": {
+        "reasoning": "Let's evaluate the submission step by step based on the given criteria:\n\n1. **正确性 (Correctness)**:\n   - The submission suggests two methods: long-pressing the console button for 5 seconds or tapping anywhere on the central display. \n   - The reference does not mention these methods; it describes navigating through settings to change the display mode. \n   - The submission's methods may or may not be correct, but they are not supported by the reference. Thus, the correctness is questionable.\n\n2. **完整性 (Completeness)**:\n   - The submission provides two possible actions but lacks details like navigating through settings (as in the reference). \n   - It does not cover all necessary information, such as the display mode settings mentioned in the reference.\n\n3. **清晰度 (Clarity)**:\n   - The submission is clear and easy to understand. The instructions are straightforward.\n\n4. **简洁性 (Conciseness)**:\n   - The submission is concise and avoids redundancy. It gets straight to the point.\n\nConclusion:\n- The submission fails on **correctness** and **completeness** because it does not align with the reference and misses key details. It passes on **clarity** and **conciseness**.\n\nN",
+        "value": "N",
+        "score": 0
+      },
+      "avg_similarity": 0.1410351966873706,
+      "num_references": 5
+    }
+  },
+  {
+    "question": "如何正确使用颈椎保护系统？",
+    "predicted_answer": "1. 确保正确使用安全带，否则会降低颈椎保护系统作用。  \n2. 追尾事故后，即使座椅外观无损坏，也需由领克中心检查前排靠背，可能需更换内部部件。  \n3. 禁止自行维修颈椎保护系统部件。  \n4. 前排乘员应坐直，背部紧贴靠背。  \n5. 避免在靠背后方放置物品（如箱子），折叠后排座椅时需固定后备厢物品，防止滑动干扰系统。  \n6. 前排靠背不得接触已折叠的后排靠背或儿童安全座椅，必要时调节前排座椅位置。",
+    "evaluation": {
+      "accuracy": "CORRECT",
+      "accuracy_score": 1,
+      "accuracy_reasoning": "GRADE: CORRECT  \n\nThe student's answer accurately covers all the key points in the true answer without any conflicting information. While phrased differently and more concisely, the student includes:  \n1. Correct use of seatbelts for system effectiveness.  \n2. The need for inspection after a rear collision.  \n3. Prohibition of self-repair.  \n4. Proper sitting posture (upright, back against the seat).  \n5. Avoidance of placing items behind seats and securing cargo.  \n6. Proper spacing between front seats and folded rear seats/child seats.  \n\nNo factual discrepancies exist, and additional details (e.g., specific examples like \"箱子\") align with the true answer.",
+      "criteria": {
+        "reasoning": "Let's evaluate the submission step by step based on the given criteria:\n\n1. **Correctness**: The submission accurately reflects the information provided in the reference. All points are factually consistent with the reference material, including the importance of seatbelt use, the need for professional inspection after a rear-end collision, the prohibition of self-repair, proper seating posture, and the avoidance of placing items behind the seat or folding seats improperly.  \n   - **Conclusion**: Meets the criterion.\n\n2. **Completeness**: The submission covers all key points from the reference:  \n   - Correct seatbelt usage (Point 1).  \n   - Professional inspection after a rear-end collision (Point 2).  \n   - No self-repair (Point 3).  \n   - Proper seating posture (Point 4).  \n   - Avoiding items behind the seat and securing cargo (Point 5).  \n   - Avoiding contact with folded rear seats or child seats (Point 6).  \n   - **Conclusion**: Meets the criterion.  \n\n3. **Clarity**: The submission is presented in a numbered list, making it easy to follow. Each point is straightforward and unambiguous.  \n   - **Conclusion**: Meets the criterion.  \n\n4. **Conciseness**: The submission avoids redundancy and delivers each point succinctly without unnecessary elaboration.  \n   - **Conclusion**: Meets the criterion.  \n\nSince the submission meets all criteria, the final answer is:  \n\nY",
+        "value": "Y",
+        "score": 1
+      },
+      "avg_similarity": 0.40357234651417306,
+      "num_references": 5
+    }
+  },
+  {
+    "question": "前方交叉路口预警系统（FCTA）的作用是什么？",
+    "predicted_answer": "FCTA在车速4-15km/h时监测前方侧向碰撞风险，通过仪表提示和蜂鸣声提醒驾驶员。主要对轿车/SUV、客车/卡车有效，对三轮车、行人等识别有限。需注意系统有局限性，驾驶员仍需保持观察。",
+    "evaluation": {
+      "accuracy": "CORRECT",
+      "accuracy_score": 1,
+      "accuracy_reasoning": "GRADE: CORRECT  \n\nExplanation:  \nThe student's answer accurately captures the core function of FCTA (monitoring frontal lateral collision risks and alerting the driver via dashboard displays and auditory signals), while providing additional context about speed range (4-15 km/h), vehicle types covered, and system limitations. None of these details conflict with the true answer, which broadly describes the system's purpose.  \n\nKey points aligning with the true answer:  \n1. **Collision risk monitoring** (explicitly stated in both).  \n2. **Alert methods** (dashboard and beeping in both).  \n3. **Context** (crossing/intersection scenarios implied in the student’s \"side collision risk\" and explicitly in the true answer).  \n\nThe student’s extra details (speed range, vehicle coverage) are factual extensions, not contradictions, so the response remains correct.",
+      "criteria": {
+        "reasoning": "1. **正确性**: The submission correctly describes the function of FCTA, including the speed range (4-15km/h), the types of vehicles it monitors (轿车/SUV, 客车/卡车), its limitations (三轮车, 行人), and the alerts (仪表提示和蜂鸣声). This aligns with the reference, which also mentions monitoring side collision risks and providing alerts. However, the submission does not explicitly mention \"驶出停车位或经过交叉路口时,\" which is part of the reference. Despite this, the core functionality is accurately described.  \n   - **Partial correctness**: The submission is mostly correct but misses a minor detail.  \n\n2. **完整性**: The submission covers the main aspects of FCTA's purpose (collision risk monitoring, alerts) and its limitations (limited recognition of certain objects). However, it omits the specific context mentioned in the reference (\"驶出停车位或经过交叉路口时\").  \n   - **Partial completeness**: Missing one detail but covers the essential points.  \n\n3. **清晰度**: The submission is clear and easy to understand. The language is straightforward, and the information is logically presented.  \n   - **Meets clarity criterion**.  \n\n4. **简洁性**: The submission is concise and avoids unnecessary details. It directly addresses the question without redundancy.  \n   - **Meets conciseness criterion**.  \n\nOverall, the submission meets most criteria but lacks full completeness due to the omission of a specific context.  \n\nN",
+        "value": "N",
+        "score": 0
+      },
+      "avg_similarity": 0.33350297914597815,
+      "num_references": 5
+    }
+  },
+  {
+    "question": "在使用FCTA时需要注意哪些事项？",
+    "predicted_answer": "1. FCTA在4-15km/h车速范围且目标车速10-60km/h时生效，注意车速限制。\n2. 系统不能识别三轮车、行人、骑行者等不规则目标，需人工观察。\n3. 猛打方向盘或转角过大会限制功能。\n4. 未系安全带、刚启动车辆时系统不启用。\n5. 需通过中控屏设置灵敏度（与FCW同步设置）。\n6. 两侧雷达被遮挡时功能失效。\n7. 属于辅助系统，驾驶员需始终接管车辆。",
+    "evaluation": {
+      "accuracy": "CORRECT",
+      "accuracy_score": 1,
+      "accuracy_reasoning": "GRADE: CORRECT  \n\nExplanation:  \n- The student's answer covers all key points mentioned in the true answer, albeit with slightly different phrasing and additional details (e.g., exact speed ranges, sensitivity settings via the infotainment screen, seatbelt requirement, radar occlusion).  \n- The student correctly notes that FCTA cannot detect irregular targets (e.g., pedestrians, cyclists), requires driver supervision, and has limitations during sharp steering maneuvers.  \n- No conflicting information is present. Extra details (e.g., speed thresholds, radar blockage) do not contradict the true answer but provide supplementary context.  \n\nThus, the response is factually accurate.",
+      "criteria": {
+        "reasoning": "Let's evaluate the submission step by step based on the given criteria:\n\n1. **正确性 (Correctness)**:\n   - The submission accurately reflects the information in the reference. For example:\n     - It correctly states FCTA's limitations (e.g., not recognizing irregular targets like pedestrians or cyclists).\n     - It mentions the need for driver intervention and system limitations during sharp turns.\n     - It includes additional correct details not in the reference (e.g., speed range, radar occlusion, sensitivity settings), which are plausible and consistent with the system's nature.\n   - No incorrect information is present.\n\n2. **完整性 (Completeness)**:\n   - The submission covers all key points from the reference (e.g., driver responsibility, target recognition limits, steering limitations).\n   - It also adds useful details not in the reference (e.g., speed range,安全带 requirement, radar occlusion), enhancing comprehensiveness.\n   - No critical information is missing.\n\n3. **清晰度 (Clarity)**:\n   - The submission is clearly organized as a numbered list, making each point easy to understand.\n   - The language is straightforward and technical terms (e.g., \"FCW同步设置\") are appropriately used without ambiguity.\n\n4. **简洁性 (Conciseness)**:\n   - Each point is concise and avoids redundancy. Extra details (e.g., sensitivity settings) are relevant and not overly verbose.\n\nConclusion: The submission meets all criteria.\n\nY",
+        "value": "Y",
+        "score": 1
+      },
+      "avg_similarity": 0.3735054033483604,
+      "num_references": 5
+    }
+  },
+  {
+    "question": "如何打开车辆尾门？",
+    "predicted_answer": "车内打开：1.中央显示屏点击\"车辆设置-电动尾门\"，点击\"打开尾门\"。2.短按仪表板尾门按钮解锁/暂停，长按自动开关。\n\n车外打开：1.车辆解锁时按下尾门下边缘按键。2.使用App点击解锁图标。3.开启感应功能后携带钥匙站立0.8米处2秒，转向灯闪烁时后退一步。\n\n警告：确保尾门运动范围无障碍物。",
+    "evaluation": {
+      "accuracy": "INCORRECT",
+      "accuracy_score": 0,
+      "accuracy_reasoning": "GRADE: INCORRECT  \n\n**Explanation:**  \nThe student's answer provides specific instructions for opening the tailgate using a central display, dashboard button, exterior keypad, app, or sensor-based method, along with safety warnings. However, the true answer lists entirely different methods: manual opening, remote control, and automatic sensing (without mentioning any of the steps or technologies described by the student).  \n\nSince the methods described in the student answer do not align factually with the true answer (e.g., no mention of \"中央显示屏\" or \"App\" in the true answer), the response is **INCORRECT**. Differences in phrasing or additional details are acceptable, but the core methods must match. Here, they conflict.",
+      "criteria": {
+        "reasoning": "1. **正确性**: The submission provides accurate methods for opening the vehicle tailgate, including both in-car and out-of-car methods. However, it lacks the \"manual opening\" method mentioned in the reference. The methods described are factually consistent but not exhaustive.\n\n2. **完整性**: The submission covers multiple ways to open the tailgate, including using the central display, dashboard button, external button, app, and automatic sensing. It also includes a warning about obstacles, which is important. However, it misses the \"manual opening\" and \"remote control\" methods from the reference, making it slightly incomplete.\n\n3. **清晰度**: The answer is clear and easy to understand, with step-by-step instructions for each method. The language is straightforward and avoids ambiguity.\n\n4. **简洁性**: The answer is concise and avoids unnecessary redundancy. Each method is described succinctly, and the warning is brief but effective.\n\nOverall, the submission meets most criteria but falls slightly short on completeness due to the omission of the \"manual opening\" and \"remote control\" methods.\n\nN",
+        "value": "N",
+        "score": 0
+      },
+      "avg_similarity": 0.29861274835040397,
+      "num_references": 5
+    }
+  },
+  {
+    "question": "在哪些情况下智能钥匙可能会受到干扰，导致功能异常？",
+    "predicted_answer": "1.整车处于充电桩、大型停车场、变电站等有信号干扰的地方。  \n2.智能钥匙和干扰设备放在一起时。  \n3.钥匙接触金属材料或被金属材料覆盖。  \n4.钥匙靠近计算机、手机、无线鼠标等存在干扰的设备。  \n5.车辆位置靠近无线电塔/电视塔或发电站等存在无线干扰的环境。  \n6.车辆周围存在无线设备，如发射机或无线电广播设备。  \n7.钥匙电量低。",
+    "evaluation": {
+      "accuracy": "CORRECT",
+      "accuracy_score": 1,
+      "accuracy_reasoning": "GRADE: CORRECT  \n\nExplanation: The student's answer includes all the scenarios mentioned in the true answer (signal interference near charging stations, parking lots, substations, and proximity to interfering devices). Additionally, the student provides extra correct information (metal interference, nearby electronic devices, radio towers, wireless equipment, and low battery), none of which contradicts the true answer. Since the response is factually accurate and expands upon the true answer without conflict, it is graded as **CORRECT**.",
+      "criteria": {
+        "reasoning": "1. **正确性**: The submission lists several scenarios where smart keys might be interfered with, such as near charging stations, large parking lots, substations, and when placed near interference devices. These are all valid and factual scenarios. The reference also mentions similar situations, so the submission aligns with the reference. Therefore, the submission meets the correctness criterion.\n\n2. **完整性**: The submission goes beyond the reference by listing additional scenarios like contact with metal materials, proximity to computers/phones, near radio/TV towers, presence of wireless devices, and low battery. These are all relevant and necessary for a comprehensive answer. Thus, the submission meets the completeness criterion.\n\n3. **清晰度**: The submission is clearly written, with each point being distinct and easy to understand. There is no ambiguity in the scenarios described. Therefore, the submission meets the clarity criterion.\n\n4. **简洁性**: The submission is concise, with each point being brief and to the point. There is no unnecessary information or redundancy. Thus, the submission meets the conciseness criterion.\n\nY",
+        "value": "Y",
+        "score": 1
+      },
+      "avg_similarity": 0.2910173435040351,
+      "num_references": 5
+    }
+  }
+]

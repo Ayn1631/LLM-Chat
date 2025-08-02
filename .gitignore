@@ -1,7 +1,8 @@
 .env
 uploaded_files/
-books/
+**/books/
 node_modules/
 .history/
 .idea/
 __pycache__/
+tt.py
